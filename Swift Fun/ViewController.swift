@@ -3,8 +3,8 @@
 //  Swift Fun
 //
 //  Created by Edgar Gomez  on 3/17/18.
-//  Copyright © 2018 Edgar Gomez . All rights reserved.
-//
+//  Copyright © 2018 Edgar Gomez . All rights reserved..
+// Hello I like Cheese
 
 import UIKit
 
